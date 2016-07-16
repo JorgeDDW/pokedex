@@ -8,3 +8,6 @@ For the moment there is just one command: `/pokemon <pokemon name or id>` and th
 #TODO
 - List the complete pokemon Type (in case its a Pokemon with more than one type)
 - Get all the attacs and special types of the Pokemon
+
+#Use 
+If you want to use this bot make shure you install this gem: https://github.com/atipugin/telegram-bot-ruby/
